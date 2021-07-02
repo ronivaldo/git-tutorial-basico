@@ -116,9 +116,15 @@ git status
 ```
 Observe que agora o `git` informa que o seu repositório `Local Repo` está com atualizado com o  `Remote Repo`.
 
+![](./images/push_1.png)
+
 O arquivo `nomes.txt` está no seu `Working Directory` e `Local Repo`,  depois do comando `git push origin` ele foi adicionado também no  `Remote Repo`.
 
-![](./images/push_1.png)
+![](./images/fork_1.png)
+
+Pronto, agora você já domina os comandos básicos do `git`.
+
+![](/images/git_02.png)
 
 
 ## 6 - Pull Request
@@ -234,6 +240,11 @@ Parabéns para você que chegou até aqui!
 Veja quem já contribuiu com esse repositório acessando o arquivo [nomes.txt](./nomes.txt).
 
 
+## Contribua com este Repositório
+
+Melhore este tutorial e faça um `PR`, todos agradecem!
+
+
 ## Escolha dos comandos Git Básicos
 
 Meu comandos `git` mais comuns nos últimos dias:
@@ -278,8 +289,6 @@ Daí foram escolhidos os comandos mais básicos:
 Depois que fizer estes tutorial, você pode aprender mais sobre o `Git Flow` aqui :  https://nvie.com/posts/a-successful-git-branching-model/
 
 ----
-
-![](/images/git_02.png)
 
 Gitcheat e imagens gentilmente cedidas por:
 http://learnstemlabs.com/articles/gitcheatsheet/
