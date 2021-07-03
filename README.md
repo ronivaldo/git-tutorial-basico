@@ -2,6 +2,18 @@
 
 Tutorial com os comandos básicos do Git.
 
+## Vídeo Passo a Passo
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ISAjxbkh82M/0.jpg)](https://www.youtube.com/watch?v=ISAjxbkh82M)
+
+Clique na imagem acima ou acese o link https://www.youtube.com/watch?v=ISAjxbkh82M
+
+## Instalando o Git
+
+Acesse https://git-scm.com/downloads para instalar o Git.
+
+## Estrutura
+
 ![](/images/git_01.png)
 
 Estrutura:
